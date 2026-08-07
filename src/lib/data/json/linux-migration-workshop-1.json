@@ -6,7 +6,7 @@
         {
           "id": "introduction",
           "title": "Introduction to Linux Migration Compass",
-          "intro": "<b>Published: 15th June, 2026</b><br><b>Updated: 16th June, 2026</b><br><br>The Linux Migration Compass is a guide designed to help users new to Linux make the switch from Windows. Rather than being tied to any single distribution, this guide covers the universal fundamentals of the Linux ecosystem, from installation all the way to system tuning and application discovery. Whether you end up on Ubuntu, Fedora, Arch, or anything in between, the concepts here apply across the board.",
+          "intro": "<b>Published: 15th June, 2026</b><br><b>Updated: 16th June, 2026</b><br><br>The Linux Migration Compass is a guide designed to help users new to Linux make the switch from Windows. This guide covers the universal fundamentals of the Linux ecosystem, from installation all the way to system tuning and application discovery, regardless of what distribution you ultimately decide to pick.",
           "subtopics": [
             {
               "title": "What is Linux?",
